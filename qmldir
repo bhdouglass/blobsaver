@@ -1,0 +1,4 @@
+module BlobSaver
+plugin BlobSaver
+BlobSaverUserScript 1.0 BlobSaverUserScript.qml
+BlobSaverScriptMessageHandler 1.0 BlobSaverScriptMessageHandler.qml
